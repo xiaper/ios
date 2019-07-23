@@ -1,4 +1,6 @@
-# 5分钟集成在线客服
+# 5分钟集成帮助中心
+
+- [Demo](https://github.com/Bytedesk/bytedesk-ios/tree/master/Tutorial/helpcenter)
 
 ## 准备工作
 

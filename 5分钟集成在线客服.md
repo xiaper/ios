@@ -1,5 +1,7 @@
 # 5分钟集成在线客服
 
+- [Demo](https://github.com/Bytedesk/bytedesk-ios/tree/master/Tutorial/kefu)
+
 ## 准备工作
 
 - 到[萝卜丝官网](https://www.bytedesk.com/admin#/register)注册管理员账号，并登录管理后台。
